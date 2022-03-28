@@ -356,6 +356,8 @@ class App extends Component {
                       </section>
                   </section>
               </section>
+              <section>test session
+              </section>
               <footer class="footer text-center">
                   All Rights Reserved by Xtreme Admin.</footer>
           </section>
