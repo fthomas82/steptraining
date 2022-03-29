@@ -356,7 +356,7 @@ class App extends Component {
                       </section>
                   </section>
               </section>
-              <section>test session
+              <section>test Changes made by febin to check the commit
               </section>
               <footer class="footer text-center">
                   All Rights Reserved by Xtreme Admin.</footer>
